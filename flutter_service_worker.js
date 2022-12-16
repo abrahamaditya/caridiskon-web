@@ -3,12 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "09f8fb25e6457026aa64798de10c1d7c",
+  "assets/AssetManifest.json": "a3d3a20cb00624cdd13fec770ddeb5e4",
 "assets/assets/animation/alert.json": "d0b06ea9e68db9f2014206d49957b101",
 "assets/assets/animation/Insufficient-funds-2.json": "41c549f7b7a4e8ca6dfa22994e17ba8e",
 "assets/assets/animation/Insufficient-funds.json": "642f6c487d4cc15053e92f652515e903",
 "assets/assets/animation/not-found.json": "8eb6f0ac6614e38cf2cb8f66627ea08b",
 "assets/assets/animation/successful-tick.json": "d851f164c5de374640f572ce6812a6d0",
+"assets/assets/icons/icon_check.png": "8194818d5b2cd9b94842a95b96bd37dc",
+"assets/assets/icons/icon_star.png": "91b4ba402dcc3fa7ab636ee5a04916e6",
+"assets/assets/icons/icon_thumbs.png": "12037d4e2a5cd4a49e1d61682b658264",
+"assets/assets/icons/phone-call.png": "bc2a55639cfefcedbc9c704ece799ed5",
+"assets/assets/icons/whatsapp.png": "9bc78ebfda041f8c4ccf1c8b0744c8ba",
 "assets/assets/illustration/shopping_cart.png": "96885afc94cf3722416ee6b33145212b",
 "assets/assets/illustration/woman_with_bag.png": "c28f8c8a975f2b6bc900445ca16f34d0",
 "assets/assets/illustration/woman_with_bag_2.png": "5f9b1ecfe5753ad67165b0a1f794efb9",
@@ -94,9 +99,9 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "008522b135b5ecd14ea783980842d0d1",
 "icons/Icon-512.png": "db5b54e4e4cabd461ab7f21ab173d91a",
-"index.html": "1d3445fddeecc207fe0352ba4da0ea13",
-"/": "1d3445fddeecc207fe0352ba4da0ea13",
-"main.dart.js": "be331098cb429314df974117fdc01737",
+"index.html": "4af54257629aeba8023db6ba3fd31b63",
+"/": "4af54257629aeba8023db6ba3fd31b63",
+"main.dart.js": "1a4e7e73a8ea769f1cf8fa10faa72c81",
 "manifest.json": "1bafbd5d35dee26c14713d04eae4ed08",
 "version.json": "4e829891220025c58a1e6e86ef786f78"
 };
